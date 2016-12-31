@@ -21,8 +21,8 @@ description: > # this means to ignore newlines until "baseurl:"
   how a Business Intelligence / Data Warehouse can be built.
   Our working source data is Open Data and how it can be improved
   from a data management perspective.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://datamanagementyeg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DataManageYEG
 github_username:  DataManagementYEG
 
