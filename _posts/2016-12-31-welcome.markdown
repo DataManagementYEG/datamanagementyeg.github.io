@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Welcome to the Github Website!"
+date:   2016-12-31 14:42:52 -0700
+categories: announcement update
+---
+Just a quick post to start our new website.
+
+Check out the [Meetup Page][meetup] for more info on how to get involved.
+
+[meetup]: https://www.meetup.com/Edmonton-Data-Management-Meetup/
