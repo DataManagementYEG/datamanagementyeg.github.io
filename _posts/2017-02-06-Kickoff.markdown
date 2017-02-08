@@ -1,0 +1,12 @@
+---
+layout: post  
+title:  "2017 Kickoff Held!"  
+date:   2017-02-06 20:00:00 -0700  
+categories: meetup  
+---
+Our 2017 Kickoff meeting was held Mon. Feb 6th at the Bonny Doon Library.  The notes and presentations can be found at our [Meetup repository][github] on GitHub.  
+
+You can check our future meet-ups at the [Meetup Page][meetup].  
+
+[meetup]: https://www.meetup.com/Edmonton-Data-Management-Meetup/  
+[github]:https://github.com/DataManagementYEG/Meetups  
