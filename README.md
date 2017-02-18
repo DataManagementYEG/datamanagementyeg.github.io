@@ -2,23 +2,23 @@
 [Website](datamanagementyeg.github.io) for the meetup.
 Created using the GitHub built in "Jekyll" tools.
 
-To add a page, our are  
 
 
-To set up locally, follow the instructions in the [GitHub support pages][1]  
+To set up locally, follow the instructions in the [GitHub support pages][1]    
 
-To run locally
-	bundle exec jekyll serve
+To run locally:  
+	bundle exec jekyll serve   
 
-To add pages
-	copy an existing .markdown in the _posts folder and edit away
+To add pages:  
+	copy an existing .markdown in the _posts folder and edit away  
 	
 	
-When the posts are good push to Github.
+When the posts are good push to Github.  
 
 
 ## To Do
-[ ] How about a theme!
+[ ] How about a theme!  
+
 
 
 
