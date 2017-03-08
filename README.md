@@ -1,5 +1,5 @@
 # datamanagementyeg.github.io
-[Website](datamanagementyeg.github.io) for the meetup.
+[Website](https://datamanagementyeg.github.io) for the meetup.
 Created using the GitHub built in "Jekyll" tools.
 
 
