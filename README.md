@@ -2,8 +2,6 @@
 [Website](datamanagementyeg.github.io) for the meetup.
 Created using the GitHub built in "Jekyll" tools.
 
-To add a page, our are  
-
 
 To set up locally, follow the instructions in the [GitHub support pages][1]  
 
