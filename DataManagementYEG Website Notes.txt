@@ -1,0 +1,26 @@
+# DataManagementYEG Website Notes.txt
+
+Site is built using the Jekyll Static Site generator
+see:
+	https://jekyllrb.com
+	https://learn.cloudcannon.com
+
+
+20170504 RK
+
+Wanted to add a simple contact form.
+Using:
+https://formspree.io
+
+Code is addedto "Contact.MD" page ....
+[ ] Needs a theme and styling
+
+
+## Email confirmed
+
+	Wohoo, your email has been confirmed. Next time someone submits your form, we'll forward it to your email. Enjoy!
+	Email: rob.kellington+edmm@gmail.com, Site 127.0.0.1:4000/contact/
+	
+**Note** confirmation happens locally (127.0.0.1 (testing) and then again after posting to GitHub
+
+
