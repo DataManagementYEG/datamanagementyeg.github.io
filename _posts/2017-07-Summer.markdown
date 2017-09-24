@@ -1,0 +1,12 @@
+---
+layout: post  
+title:  "2017 Summer Series"  
+date:   2017-09-01 20:00:00 -0700  
+categories: meetup  
+---
+Realizing that Edmontonians enjoy summer and likely don't want to sit in a meeting room on their off time, we had a couple of more social events at local establishments.  These were informal and a good chance to find out about fellow meetup members.
+
+You can check our future meet-ups at the [Meetup Page][meetup].  
+
+[meetup]: https://www.meetup.com/Edmonton-Data-Management-Meetup/  
+[github]:https://github.com/DataManagementYEG/Meetups  
