@@ -6,6 +6,11 @@ categories: meetup
 ---
 The return of our fall schedule begins Mon. October 2nd at the Bonny Doon (Idylwylde) Library.  The notes and presentations can be found at our [Meetup repository][github] on GitHub.  
 
+Edmonton Open Data
+- A fantastic presentation by David Rouch & Susan Copeland.  
+- For more information, check out https://data.edmonton.ca 
+	- 
+
 You can check our future meet-ups at the [Meetup Page][meetup].  
 
 [meetup]: https://www.meetup.com/Edmonton-Data-Management-Meetup/  
