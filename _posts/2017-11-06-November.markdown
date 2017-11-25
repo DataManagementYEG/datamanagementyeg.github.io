@@ -5,13 +5,19 @@ date:   2017-11-06 20:00:00 -0700
 categories: meetup  
 ---
 Our next meetup will be at our usual place, on the usual first Monday of the month:  
-	Mon. November 6th at the [Bonny Doon (Idylwylde) Library].  
+	Mon. December 4th at the [Bonny Doon (Idylwylde) Library].  
 	
 The notes and presentations can be found at our [Meetup repository][github] on GitHub.  
 
 This month's topics:
 	- Practical Data Management Tools 
-	- TBD
+	- 
+	- Demonstration: Wherescape Red
+		Steve Campbell, CWB
+		
+		If you want to see more of this tool, we found this good overview video.
+		https://vimeo.com/170556816	
+	
 
 You can check our future meet-ups at the [Meetup Page][meetup].  
 

@@ -1,0 +1,21 @@
+---
+layout: post  
+title:  "2017 December Meetup!"  
+date:   2017-12-04 20:00:00 -0700  
+categories: meetup  
+---
+Our next meetup will be at our usual place, but on the **second** Monday of the month:  
+	Mon. January 8th at the [Bonny Doon (Idylwylde) Library].  
+	
+The notes and presentations can be found at our [Meetup repository][github] on GitHub.  
+
+This month's topics:
+	- Jupyter and Project Data Management
+		- Mostafa Hadavandsiri, PhD
+	
+
+You can check our future meet-ups at the [Meetup Page][meetup].  
+
+[meetup]: https://www.meetup.com/Edmonton-Data-Management-Meetup/  
+[github]:https://github.com/DataManagementYEG/Meetups  
+[Bonny Doon (Idylwylde) Library]:https://goo.gl/maps/1rGi9W9JtFS2
