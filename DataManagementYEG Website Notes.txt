@@ -5,6 +5,14 @@ see:
 	https://jekyllrb.com
 	https://learn.cloudcannon.com
 
+** To Run Locally before committing
+
+```
+cd ~/Projects/#Meetups/$DataManagement/datamanagementyeg.github.io
+bundle exec jekyll serve
+```
+
+
 
 20170504 RK
 
