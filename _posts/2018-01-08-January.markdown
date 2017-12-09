@@ -1,17 +1,16 @@
 ---
 layout: post  
-title:  "2017 December Meetup!"  
-date:   2017-12-04 20:00:00 -0700  
+title:  "20187 January Meetup!"  
+date:   2018-01-08 20:00:00 -0700  
 categories: meetup  
 ---
-This month's topics:
-	- Jupyter and Project Data Management
-
-We had 2 great presenters:
-- Mostafa Hadavandsiri, PhD  
-- Rodney Beard, PhD  
-
+Our next meetup will be at our usual place, but on the **second** Monday of the month:  
+	Mon. January 8th at the [Bonny Doon (Idylwylde) Library].  
+	
 The notes and presentations can be found at our [Meetup repository][github] on GitHub.  
+
+This month's topics:
+	- Cloud Services
 	
 
 You can check our future meet-ups at the [Meetup Page][meetup].  
