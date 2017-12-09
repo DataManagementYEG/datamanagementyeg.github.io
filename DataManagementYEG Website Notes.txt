@@ -11,8 +11,15 @@ see:
 cd ~/Projects/#Meetups/$DataManagement/datamanagementyeg.github.io
 bundle exec jekyll serve
 ```
+Note: Posts have to have a date less than today to actually be seen on site
 
-
+Note: the Contact form is set to simply send an email to
+	FROM:
+		Formspree Team <submissions@formspree.io>
+	TO:
+		rob.kellington@gmail.com
+		
+		
 
 20170504 RK
 
