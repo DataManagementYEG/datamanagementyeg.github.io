@@ -1,6 +1,6 @@
 ---
 layout: post  
-title:  "20187 January Meetup!"  
+title:  "2018 January Meetup!"  
 date:   2018-01-08 20:00:00 -0700  
 categories: meetup  
 ---
