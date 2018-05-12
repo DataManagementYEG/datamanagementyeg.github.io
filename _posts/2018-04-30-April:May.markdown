@@ -1,0 +1,25 @@
+---
+layout: post  
+title:  "2018 April/May Meetup!"  
+date:   2018-04-30=7 20:00:00 -0700  
+categories: meetup  
+---
+Our last meetup was be at our usual place, but **not** usual day.  It ended up being the last Monday of April:  
+	Mon. April 30th at the [Bonny Doon (Idylwylde) Library].  
+	
+The notes and presentations can be found at our [Meetup repository][github] on GitHub.  
+
+This month's topics:
+	- Data Security
+	- Privacy
+	- Drug Shortages
+
+You can check our future meet-ups at the [Meetup Page][meetup].  
+
+Follow the meetup on Slack:  https://yegdatamanagement.slack.com
+
+
+[meetup]: https://www.meetup.com/Edmonton-Data-Management-Meetup/  
+[github]:https://github.com/DataManagementYEG/Meetups  
+[slack]:https://yegdatamanagement.slack.com 
+[Bonny Doon (Idylwylde) Library]:https://goo.gl/maps/1rGi9W9JtFS2
