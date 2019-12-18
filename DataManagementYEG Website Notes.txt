@@ -13,6 +13,11 @@ bundle exec jekyll serve
 ```
 Note: Posts have to have a date less than today to actually be seen on site
 
+Confirm after merging to Github
+
+
+
+
 Note: the Contact form is set to simply send an email to
 	FROM:
 		Formspree Team <submissions@formspree.io>
